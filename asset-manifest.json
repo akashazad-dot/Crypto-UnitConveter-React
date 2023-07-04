@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crypto-UnitConveter-React/static/css/main.a56b39d4.css",
+    "main.js": "/Crypto-UnitConveter-React/static/js/main.6d4bf630.js",
+    "index.html": "/Crypto-UnitConveter-React/index.html",
+    "main.a56b39d4.css.map": "/Crypto-UnitConveter-React/static/css/main.a56b39d4.css.map",
+    "main.6d4bf630.js.map": "/Crypto-UnitConveter-React/static/js/main.6d4bf630.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a56b39d4.css",
+    "static/js/main.6d4bf630.js"
+  ]
+}
